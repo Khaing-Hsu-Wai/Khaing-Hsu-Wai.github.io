@@ -1,0 +1,26 @@
+.title{
+    font-size: 2rem;
+    color: #8C7ACE;
+}
+
+.subtitle{
+    margin-top: 3rem;
+    font-size: 1.5rem;
+    color: #8C7ACE;
+}
+
+.achievements{
+    margin-top: 20px;
+    gap: 5rem;
+}
+
+.list{
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+}
+
+.highlight{
+    color: #000000;
+    font-weight: bold;
+}
