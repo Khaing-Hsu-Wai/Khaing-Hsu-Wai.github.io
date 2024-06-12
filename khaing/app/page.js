@@ -13,7 +13,7 @@ export default function Home() {
           <a href="https://www.okayama-u.ac.jp" target="_blank" rel="noopener noreferrer"> Okayama University </a>
           {`under`}
           <a href="https://www.cc.okayama-u.ac.jp/~eng_dist/index_eng.html" target="_blank" rel="noopener noreferrer"> Funabiki Lab </a>.
-          {`I am also a member of Language Understanding (LU) Lab under`}
+          {` I am also a member of Language Understanding (LU) Lab under`}
           <a href="https://sites.google.com/site/yekyawthunlp/" target="_blank" rel="noopener noreferrer"> Prof. Ye </a>.
         </p>
         <p>
