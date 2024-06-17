@@ -17,14 +17,14 @@ export default function Home() {
           <a href="https://sites.google.com/site/yekyawthunlp/" target="_blank" rel="noopener noreferrer"> Prof. Ye </a>.
         </p>
         <p>
-          {`Currently, my research is focused on Programming Learning Assistant System,
-                  to support the programming education for the novice students and creative text generation for low-resource languages.
-                  My research interests focus on: Educational Technology, Natural Language Processing, and Machine Learning.`}
+          {`My research interests focus on: Educational Technology, Natural Language Processing, Data Science and Machine Learning.
+          Currently, my research is focused on Programming Learning Assistant System,
+                  to support the programming education for the novice students and creative text generation for low-resource languages.`}
         </p>
         <p>
           {`You can have a look at my research publication`}
           <a href="achievements"> here</a>.
-          {`If you are interested in discussing research collaborations or need some guidance, please feel free to contact me. I am always ready to help.
+          {` If you are interested in discussing research collaborations, please feel free to contact me. I am always ready to help.
                   I like to do volunteer works to support every community. I also like traveling and seeking new adventures. One big dream of mine is to see the northern lights!`}
         </p>
         <p>
