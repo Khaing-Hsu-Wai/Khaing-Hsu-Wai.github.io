@@ -144,13 +144,13 @@ const Achievements = () => {
             <hr />
             <ul className={styles.list}>
                 <li>
-                    Diagnosis of Gout Disease Using Decision Tree Method (Supervised by Dr. Thiri Haymar Kyaw)
+                    Diagnosis of Gout Disease Using Decision Tree Method (Adviser: Dr. Thiri Haymar Kyaw)
                 </li>
                 <li>
-                    Searching Mechanism of Myanmar Words to Myanmar Sign Language Videos (Supervised by Prof. Ye Kyaw Thu and Prof. Hnin Aye Thant) 
+                    Searching Mechanism of Myanmar Words to Myanmar Sign Language Videos (Adviser: Prof. Ye Kyaw Thu and Prof. Hnin Aye Thant) 
                 </li>
                 <li>
-                    A Study of Answer Code Validation Program for Code Writing Problem in Java with Three Features and Code Modification Problems in JavaScript Programming (Supervised by Prof. Nobuo Funabiki)
+                    A Study of Answer Code Validation Program for Code Writing Problem in Java with Three Features and Code Modification Problems in JavaScript Programming (Adviser: Prof. Nobuo Funabiki)
                 </li>
             </ul>
         </section>
