@@ -9,7 +9,7 @@ export default function Home() {
       <section className="basicInfo">
         <h1 className="name">Khaing Hsu Wai (ခိုင်ဆုဝေ) (カイン)</h1>
         <p>
-          {`Hello! I am Khaing Hsu Wai (カイン), a silly but hardworking Ph.D candidate at`}
+          {`Hello! I am Khaing Hsu Wai (カイン), hardworking Ph.D candidate at`}
           <a href="https://www.okayama-u.ac.jp" target="_blank" rel="noopener noreferrer"> Okayama University </a>
           {`under`}
           <a href="https://www.cc.okayama-u.ac.jp/~eng_dist/index_eng.html" target="_blank" rel="noopener noreferrer"> Funabiki Lab.</a>
